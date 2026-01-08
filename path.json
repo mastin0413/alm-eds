@@ -1,0 +1,10 @@
+{
+    "mappings": [
+      "/content/alm-eds/:/",
+      "/content/alm-eds/configuration:/.helix/config.json",
+      "/content/alm-eds/metadata:/metadata.json"
+    ],
+    "includes": [
+      "/content/alm-eds/"
+    ]
+  }
