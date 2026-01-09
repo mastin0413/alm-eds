@@ -1,5 +1,4 @@
 mountpoints:
   /:
-    url: "https://author-p179458-e1886370.adobeaemcloud.com/bin/franklin.delivery/mastin0413/alm-eds/main"
-    type: "markup"
-    suffix: ".html"
+    url: "https://drive.google.com/drive/u/0/folders/1hEzWj11sPAaz2ENJ7PWGnJCfi0R6KJET"
+    type: "gdrive"
